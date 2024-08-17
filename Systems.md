@@ -1,3 +1,3 @@
 # Systems
-- Window 7
+- Window 8
 - macOS 12.3

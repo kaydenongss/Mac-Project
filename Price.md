@@ -1,2 +1,2 @@
 # Pricing
-Selling Price $499
+Selling Price $599
